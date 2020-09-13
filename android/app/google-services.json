@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "372507371587",
+    "firebase_url": "https://doanchuyennganh-eefcb.firebaseio.com",
+    "project_id": "doanchuyennganh-eefcb",
+    "storage_bucket": "doanchuyennganh-eefcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372507371587:android:d5eb5df69e37324d4f0cf6",
+        "android_client_info": {
+          "package_name": "com.example.dacn_iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372507371587-kp880beibcckvjfqg2c63gu808q58fpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxdJvYS9yEe-BwICKh0_xwjDqHGN7Fg7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372507371587-kp880beibcckvjfqg2c63gu808q58fpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
